@@ -3,6 +3,11 @@
 ## Description
 This Colour Picker Extension is a versatile and user-friendly tool designed for users who need a quick and easy way to select, modify, and utilise colors within their projects. Built using React, this extension offers a range of features including a standard color wheel, RGB and HEX input fields, and an eye-dropper tool for extracting colors from web pages.
 
+## Technical Description
+Uses custom webpack function and plugin combinations to write react code to static format (which is needed for chrome extension deployment)
+Utilises react-color and color-convert for colour computation. 
+The custom eye dropper is made with the eyedropper api - which is certainly incompatible on most browsers. (Only recommended to be stable on chrome)
+
 ## Features
 - **Color Wheel**: Choose colors using a user-friendly color wheel interface.
 - **RGB & HEX Fields**: Input and copy colors in RGB or HEX format.
