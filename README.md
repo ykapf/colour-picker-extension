@@ -1,5 +1,7 @@
 # Colour Picker Extension
 
+[Chrome Web Store](https://chrome.google.com/webstore/detail/colour-picker/ghhgpddhmjfhmilelkpeomoifbnjdnjb?hl=en&authuser=1)
+
 ## Description
 This Colour Picker Extension is a versatile and user-friendly tool designed for users who need a quick and easy way to select, modify, and utilise colors within their projects. Built using React, this extension offers a range of features including a standard color wheel, RGB and HEX input fields, and an eye-dropper tool for extracting colors from web pages.
 
